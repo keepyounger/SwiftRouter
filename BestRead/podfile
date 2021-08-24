@@ -1,0 +1,24 @@
+
+platform :ios, '13.0'
+inhibit_all_warnings!
+use_frameworks!
+
+target 'BestRead' do
+  
+  #pod 'Alamofire'
+  
+  #pod 'RxSwift'
+  #pod 'RxCocoa'
+  #pod 'ReactiveCocoa'
+  
+  #pod 'SnapKit'
+  
+  #pod 'Kingfisher'
+  
+  #pod 'HandyJSON'
+  #pod 'KakaJSON'
+  #pod 'SwiftyJSON'
+  
+  #pod 'IQKeyboardManagerSwift'
+  
+end
